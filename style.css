@@ -63,7 +63,7 @@ button {
 }
 
 button:hover {
-    opacity: 0.8;
+    opacity: 0.5;
 }
 
 button:active {
@@ -112,7 +112,8 @@ header {
         width: auto;
     }
 
-    p, a {
+    p,
+    a {
         font-size: 20px;
         width: auto;
     }
